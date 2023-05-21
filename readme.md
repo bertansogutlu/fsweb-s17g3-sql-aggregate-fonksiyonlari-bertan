@@ -198,6 +198,7 @@ MIN-MAX, COUNT-AVG-SUM, GROUP BY, JOINS (INNER, OUTER, LEFT, RIGHT
 	left join islem i on o.ogrno = i.ogrno
 	left join kitap k on i.kitapno = k.kitapno
 	group by o.ogrno
+	order by k.sayfasayisi desc
 
 	29) Her öğrencinin okuduğu kitap sayısını getiriniz.
 
