@@ -24,6 +24,7 @@ Yazdığınız sorguları buradan test edebilirsiniz: [https://ergineer.com/asse
 ##### Görevler
 Aşağıda istenilen sonuçlara ulaşabilmek için gerekli SQL sorgularını yazın. 
 
+Deneme
 
 MIN-MAX, COUNT-AVG-SUM, GROUP BY, JOINS (INNER, OUTER, LEFT, RIGHT
 	#ilk 3 soruyu join kullanmadan yazın.
